@@ -1,4 +1,4 @@
-# Loss Operators for a Delta-Hedged Short Put (MF731 HW 3)
+# Loss Operators for a Delta-Hedged Short Put
 
 Short M = 100 Black-Scholes puts, delta hedged with shares held fixed over a
 10-day horizon. The risk factor is the log price, the risk-factor change is the
